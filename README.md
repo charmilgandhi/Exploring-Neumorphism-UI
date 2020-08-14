@@ -1,5 +1,3 @@
-# Exploring-Neumorphism-UI.io
-
 # Exploring-Neumorphism-UI
 
 Neumorphism is currently a trend which is gaining more and more attention these days on both Dribble and Instagram. This entire hype started with one dribble shot that went viral.
