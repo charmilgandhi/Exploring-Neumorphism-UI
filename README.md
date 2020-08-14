@@ -10,7 +10,7 @@ Neumorphic card however pretends to extrude from the background. It’s a raised
 
 You can read more about Neumorphic UI [here](https://uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6).
 
-In this repository, I will be going to expore this beautiful new trend in UI.
+In this repository, I will be going to expore this beautiful new trend in UI. You can also see all the present and future works on this topic [here](https://charmilgandhi.github.io/Exploring-Neumorphism-UI.io/).
 
 ## 1. Neumorphic Theme Toggler
 Dark Mode already was in trend since 2020 beginning. And Neumorphic UI is the new big thing. Imagine what happens when we combine these 2 hypes.
@@ -19,3 +19,11 @@ Click :point_right: [here](https://charmilgandhi.github.io/Exploring-Neumorphism
 
 
 ![Alt Text](Neumorphic_Toggler/media/theme-toggler.gif)
+
+
+## 2. Neumorphic Social Media Icons with Hover Animations
+Cool Neumorphic social media icons..!!! Just hover over them and bring them to their original colors.
+
+Click :point_right: [here](https://charmilgandhi.github.io/Exploring-Neumorphism-UI.io/NeuIcons/neuIcons.html) to see.
+
+![Alt Text](NeuIcons/media/neuIcons.gif)
