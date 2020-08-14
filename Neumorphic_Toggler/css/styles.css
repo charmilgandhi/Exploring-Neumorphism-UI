@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1E1F26;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    transition: 0.3s ease-in;
+}
+
+.body-on {
+    background-color: #ddd;
+}
+
+.btn-base {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #1E1F26;
+    box-shadow: inset 4px 4px 6px rgba(255,255,255,0.2),
+                inset -4px -4px 10px rgba(0,0,0,0),
+                6px 6px 8px black,
+                -1px -1px 7px rgba(255,255,255,0.1);
+    width: 450px;
+    border-radius: 200px;
+    padding: 25px;
+    transition: 0.3s ease-in;
+}
+
+.btn-base-on {
+    background-color: #ddd;
+    box-shadow: inset 4px 4px 6px white,
+                inset -4px -4px 10px rgba(0,0,0,0.5),
+                6px 6px 8px rgba(0,0,0,0.5),
+                -1px -1px 7px white;
+}
+
+.btn-inner {
+    background-color: #1E1F26;
+    box-shadow: inset 4px 4px 6px rgba(255,255,255,0.2) ,
+                inset -4px -4px 10px rgba(0,0,0,0.8),
+                6px 6px 8px black,
+                -1px -1px 7px rgba(255,255,255,0.1);
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    transform: translateX(0);
+    -webkit-appearance: none;
+    outline: none;
+    transition: 0.3s ease-in;
+}
+
+.btn-inner-on {
+    background-color: #ddd;
+    box-shadow: inset 4px 4px 6px white,
+                inset -4px -4px 10px rgba(0,0,0,0.5),
+                6px 6px 8px rgba(0,0,0,0.5),
+                -1px -1px 7px white; 
+}
+
+.btn-inner::before {
+    height: 100%;
+    font-family: FontAwesome;
+    content: '\f011';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 100px;
+    outline: none;
+    border: none;
+    color: rgb(20,20,25);
+    transition: 0.5s ease-in;
+}
+
+.btn-inner:checked::before {
+    color: rgb(101,226,30);
+}
+
+.turn-on {
+    transform: translateX(100%);
+}
