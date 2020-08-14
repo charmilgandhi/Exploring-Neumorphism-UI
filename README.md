@@ -13,4 +13,9 @@ You can read more about Neumorphic UI [here](https://uxdesign.cc/neumorphism-in-
 In this repository, I will be going to expore this beautiful new trend in UI.
 
 ## 1. Neumorphic Theme Toggler
+Dark Mode already was in trend since 2020 beginning. And Neumorphic UI is the new big thing. Imagine what happens when we combine these 2 hypes.
+
 Click :point_right: [here](https://charmilgandhi.github.io/Exploring-Neumorphism-UI.io/Neumorphic_Toggler/toggler.html) to see.
+
+
+![Alt Text](Neumorphic_Toggler/media/theme-toggler.gif)
