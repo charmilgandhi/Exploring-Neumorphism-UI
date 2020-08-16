@@ -27,3 +27,11 @@ Cool Neumorphic social media icons..!!! Just hover over them and bring them to t
 Click :point_right: [here](https://charmilgandhi.github.io/Exploring-Neumorphism-UI.io/NeuIcons/neuIcons.html) to see.
 
 ![Alt Text](NeuIcons/media/neuIcons.gif)
+
+## 3. Neumorphic Circular Progress Bar
+Enter the number in the space given besides the circular progress bar and see the bar progress.
+
+Click :point_right: [here](https://charmilgandhi.github.io/Exploring-Neumorphism-UI.io/NeuCircBar/neuCircBar.html) to see.
+
+![Alt Text](NeuCircBar/media/neuCircBar.gif)
+
